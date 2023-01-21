@@ -12,7 +12,7 @@ Collect current temperature and display the data onto website
 * male to male wires
 
 # Notes
-Project is still ongoing. I am still try to workout the optimise the javascript
+Project is still ongoing. I am still try to workout the optimise the javascript. However the arduino should be running fine :)
 
 
 
